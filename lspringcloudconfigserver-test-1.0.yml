@@ -1,0 +1,15 @@
+person:
+	name: xiaoming
+	age: 22
+	sex: male
+	hobbies:
+		sport:
+			basketball
+			football
+		music:
+			R&B
+			RAP
+			ROCK
+
+profile: default
+label: 1.0
