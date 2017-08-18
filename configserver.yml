@@ -8,5 +8,5 @@ person:
 profile: default
 label: 1.0
 
-lspringcloudconfigserver:
+configserver:
   hi: rock
